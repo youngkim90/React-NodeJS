@@ -1,9 +1,10 @@
 const express = require('express');
 const mongoose = require('mongoose');
+const config = require('./config/key');
 const app = express();
 const port = 5000;
 
-mongoose.connect('mongodb+srv://youngkim:qwer1234@boilerplate.tsrpo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',{
+mongoose.connect(config.mongoURI,{
     useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true, useFindAndModify: false
 }).then( () => console.log('MongoDB Connected'))
     .catch(err => console.log(err))
