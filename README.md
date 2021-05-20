@@ -1,12 +1,12 @@
 # React-NodeJS
 Study for React and Node with MongoDB
 
-<h3>React와 NodeJS를 공부하기 위한 간단한 프로젝트</h3>
+<h3>React와 NodeJS를 활용한 회원가입 시스템</h3>
 <br>
 <h3>특징</h3>
 - NodeJS의 모듈을 활용하여 로그인시 비밀번호를 해시함수를 사용하여 암호화 시킨다.<br>
 - NodeJS의 모듈을 활용하여 사용자 고유의 토큰을 생성하고 Cookie에 저장하여 인증과정을 거친다.<br>
-- Mongoose 모듈을 활용하여 mongoDB에 데이터를 CRUD 한다.<br>
+- Mongoose 모듈을 활용하여 **mongoDB**에 데이터를 CRUD 한다.<br>
 - React의 Component 개념을 활용한다.<br>
 - Functional Component 방식을 사용하여 회원가입, 로그인, 로그아웃을 생성한다.<br>
 - 클라이언트와 서버 사이에 Proxy를 적용<br>
