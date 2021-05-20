@@ -23,3 +23,8 @@ Study for React and Node with MongoDB
 - 클라이언트와 서버 사이에 Proxy 미들웨어를 사용한 통신 방식에 대해 공부할 수 있었다.<br>
 - redux의 Store를 활용한 상태 관리방식과 서버로 데이터를 요청하는 방식에 대해 이해할 수 있었다.<br>
 - HOC 방식을 통한 페이지별 인증 처리 방식에 대해 공부할 수 있었다.
+<br><br>
+
+<h3>참조자료</h3>
+- https://inf.run/VGsC (강사: 
+- https://inf.run/BpMJ (강사: John Ahn)
