@@ -1,7 +1,7 @@
 # React-NodeJS
 Study for React and Node with MongoDB
 
-<h3>React와 NodeJS를 활용한 회원가입 시스템</h3>
+<h3>React,NodeJS와 MongoDB를 활용한 회원가입 시스템</h3>
 <br>
 <h3>특징</h3>
 - NodeJS의 모듈을 활용하여 비밀번호를 해시함수로 암호화 시킨다.<br>
